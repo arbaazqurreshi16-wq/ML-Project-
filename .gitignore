@@ -1,1 +1,9 @@
-*
+.venv/
+logs/
+*.egg-info/
+mlproject.egg-info/
+
+.venv/
+logs/
+*.egg-info/
+mlproject.egg-info/
